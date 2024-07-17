@@ -6,3 +6,6 @@ How this will work is by using function lines. You can use these functions in yo
 
 ## How can I test my own app?
 Not to worry, an iPhone that has been modified, **ONLY** for testing purposes. That way, you can still get the same frameworks, applications, and much more, just without the normal applications from a normal iPhone.
+
+## Updates
+To get updates to the iPhone, you can join the Apple Discord server made for this project at https://discord.gg/w6UVWJYCGU.
