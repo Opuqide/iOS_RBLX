@@ -3,3 +3,6 @@ The iOS Roblox repository is the official repository for the iPhone in Roblox pr
 
 ## How does all of this work?
 How this will work is by using function lines. You can use these functions in your apps whenever and however you want them to.
+
+## How can I test my own app?
+Not to worry, an iPhone that has been modified, **ONLY** for testing purposes. That way, you can still get the same frameworks, applications, and much more, just without the normal applications from a normal iPhone.
