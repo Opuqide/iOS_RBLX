@@ -9,7 +9,7 @@
 ]]
 
 -- Requires the notification module.
-local notificationHandler = require(game:GetService("ReplicatedFirst")["iOS 17.5 for iPhone 14 Pro"].GUIs.iOSCore.iPhone.System.Library.PrivateFrameworks.Notification.framework.Notification)
+local notificationHandler = require(game:GetService("ReplicatedFirst")["iOS 17.5.1 for iPhone 14 Pro"].GUIs.iOSCore.iPhone.System.Library.PrivateFrameworks["Notification.framework"].Notification)
 
 -- Issues an alert
 notificationHandler:SendNotification(iconID, "Application", "Title", "Text", soundID)
